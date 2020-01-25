@@ -22,7 +22,7 @@ ul.topnav li a.active{
 
 ul.topnav li a{
     display: block;
-    color: FDFFFF;
+    color: #FDFFFF;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -31,7 +31,7 @@ ul.topnav li a{
 img{
     width: 100%;
     justify-self: center;
-    box-shadow: bisque;
+    box-shadow: 0 1px 1px 1px bisque;
 }
 
 .content{
@@ -59,30 +59,37 @@ footer{
 a{
     color: #6B7A8F;
 }
+hr{
+    color: #F7882F;
+}
 .row-grid-1{
     display: grid;
     grid-template-columns: 40% auto;
     grid-gap: 20px;
     padding: 1em;
-    border: 1px solid whitesmoke;
+    border: 1px solid #F7882F;
+    border-radius: 0 0 5px 5px;
     
 }
 
 .row{
     padding: 1em;
     color: #6B7A8F;
-    border: 1px solid whitesmoke;
+    border: 1px solid #F7882F;
+    border-radius: 0 0 5px 5px;
     
 }
 
 .content-1{
     text-align: center;
     border: 1px solid #F7C331;
+    border-radius: 5px;
     padding: 5px;
 }
 .content-2{
     border: 1px solid #F7C331;
     color: #6B7A8F;
+    border-radius: 5px;
     padding: 1em;
 }
 
