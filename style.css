@@ -29,7 +29,7 @@ ul.topnav li a{
 }
 
 img{
-    width: 80%;
+    width: 100%;
     justify-self: center;
     box-shadow: bisque;
 }
@@ -81,7 +81,7 @@ a{
 .content-1{
     text-align: center;
     border: 1px solid #003977;
-    padding: 1em;
+    padding: 5px;
 }
 .content-2{
     border: 1px solid #003977;
