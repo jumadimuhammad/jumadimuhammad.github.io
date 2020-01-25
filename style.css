@@ -6,7 +6,7 @@ ul.topnav{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(83, 8, 8);
+    background-color: #F92900;
     margin-bottom: 1em;
 }
 
@@ -14,7 +14,7 @@ ul.topnav li{
     float: left;
 }
 ul.topnav li a:hover:not(.active){
-    background-color: rgb(114, 44, 44);
+    background-color: #DB2932;
 }
 ul.topnav li a.active{
     background-color: #4caf50;
@@ -22,15 +22,16 @@ ul.topnav li a.active{
 
 ul.topnav li a{
     display: block;
-    color: white;
+    color: FDFFFF;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 img{
-    height: 50px;
+    height: 20em;
     justify-self: center;
+    box-shadow: bisque;
 }
 
 .content{
@@ -41,11 +42,14 @@ img{
 }
 
 section{
-    color: rgb(248, 244, 244);
-    background-color: rgb(53, 9, 9);
+    color: black;
+    background-color: #F4BF00;
     padding: 1em;
     margin: 0 auto;
-    border-bottom: 1px solid;
+    border-top: 2px solid #EAEA46;
+    border-right: 2px solid #EAEA46;
+    border-left: 2px solid #EAEA46;
+    border-bottom: 1px solid whitesmoke;
 }
 
 footer{
@@ -57,23 +61,24 @@ footer{
 
 }
 a{
-    color: white;
+    color: #003977;
 }
 .row-grid-1{
     display: grid;
     grid-template-columns: 40% auto;
     grid-gap: 20px;
-    background-color: rgb(245, 38, 38);
     padding: 1em;
+    border: 1px solid whitesmoke;
+    
 }
 
 .content-1{
     text-align: center;
-    border: 1px solid yellow;
+    border: 1px solid #003977;
     padding: 1em;
 }
 .content-2{
-    border: 1px solid yellow;
+    border: 1px solid #003977;
     padding: 1em;
 }
 
