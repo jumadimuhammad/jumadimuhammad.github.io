@@ -6,7 +6,7 @@ ul.topnav{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #F92900;
+    background-color: #F7882F;
     margin-bottom: 1em;
 }
 
@@ -14,7 +14,7 @@ ul.topnav li{
     float: left;
 }
 ul.topnav li a:hover:not(.active){
-    background-color: #DB2932;
+    background-color: #DCC7AA;
 }
 ul.topnav li a.active{
     background-color: #4caf50;
@@ -42,26 +42,22 @@ img{
 }
 
 section{
-    color: black;
-    background-color: #F4BF00;
+    color: #DCC7AA;
+    background-color: #6B7A8F;
     padding: 1em;
     margin: 0 auto;
-    border-top: 2px solid #EAEA46;
-    border-right: 2px solid #EAEA46;
-    border-left: 2px solid #EAEA46;
-    border-bottom: 1px solid whitesmoke;
 }
 
 footer{
     width: 100%;
     height: 2em;
-    color: rgb(83, 8, 8);
+    color: #6B7A8F;
     padding-top: 1em;
     text-align: center;
 
 }
 a{
-    color: #003977;
+    color: #6B7A8F;
 }
 .row-grid-1{
     display: grid;
@@ -74,17 +70,19 @@ a{
 
 .row{
     padding: 1em;
+    color: #6B7A8F;
     border: 1px solid whitesmoke;
     
 }
 
 .content-1{
     text-align: center;
-    border: 1px solid #003977;
+    border: 1px solid #F7C331;
     padding: 5px;
 }
 .content-2{
-    border: 1px solid #003977;
+    border: 1px solid #F7C331;
+    color: #6B7A8F;
     padding: 1em;
 }
 
