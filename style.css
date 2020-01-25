@@ -107,7 +107,7 @@ input{
     padding: 0.4em;
 }
 textarea{
-    width: 100%;
+    width: 52%;
 }
 
 button{
@@ -141,4 +141,7 @@ button{
 
     }
 
+    textarea{
+        width: 100%;
+    }
 }
