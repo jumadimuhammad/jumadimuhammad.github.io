@@ -29,7 +29,7 @@ ul.topnav li a{
 }
 
 img{
-    height: 20em;
+    width: 80%;
     justify-self: center;
     box-shadow: bisque;
 }
