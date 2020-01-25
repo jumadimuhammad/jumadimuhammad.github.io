@@ -1,12 +1,13 @@
 # jumadimuhammad.github.io
 
-DARK IMPERIAL BLUE
-#003977
-SANDSTORM
-#EAEA46
-FLUORESCENT ORANGE
-#F4BF00
-SPANISH ORANGE
-#ED6E00
-FERRARI RED
-#DB2932
+# Warna
+Blueberry
+Apricot
+Citrus
+Apple core
+
+# Font
+Share
+Khula
+NTR
+Baloo Bhai
