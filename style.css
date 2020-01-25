@@ -97,4 +97,12 @@ a{
         text-align: left;
     }
 
+    .content{
+        width: 98%;
+    }
+
+    section{
+        padding-top: 0.3em;
+    }
+
 }
