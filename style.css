@@ -72,6 +72,12 @@ a{
     
 }
 
+.row{
+    padding: 1em;
+    border: 1px solid whitesmoke;
+    
+}
+
 .content-1{
     text-align: center;
     border: 1px solid #003977;
