@@ -101,8 +101,14 @@ a{
         width: 98%;
     }
 
+    .row-grid-1{
+        grid-template-columns: auto;
+        grid-template-columns: auto;        
+    }
+
     section{
         padding-top: 0.3em;
+
     }
 
 }
