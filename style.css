@@ -105,7 +105,16 @@ hr{
     color: #6B7A8F;
     border-radius: 5px;
     padding: 1em;
+    text-align: center;
 }
+.content-2 h3{
+    margin-bottom: 0;
+   
+}
+.content-2 h4{
+    margin-top: 0;
+}
+
 
 input{
     width: 50%;
